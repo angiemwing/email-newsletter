@@ -1,0 +1,91 @@
+*{
+  color: #CCCCCC;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+}
+#emailContainer {
+  background-color: #292D2D;
+}
+#heroImageContainer {
+  background-image: url("http://houseofevvie.com/wp-content/uploads/2016/12/amy-johnson.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 368px;
+}
+p, em {
+  font-size: .9em;
+  line-height: 1.2em;
+  padding-left: 70px;
+  padding-right: 70px;
+  color: #CCCCCC;
+}
+h1 {
+  padding-left: 42px;
+  padding-top: 50px;
+  letter-spacing: .04em;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+}
+h2 {
+  display: inline;
+  font-size: 20px;
+  padding-left: 70px;
+  color: #AE9562;
+}
+#introductionBlock {
+  padding-bottom: 90px;
+}
+.introductionHeading {
+  padding-top: 90px;
+  margin-left: 20px;
+  padding-bottom: 15px;
+}
+
+.furCoatParagraph {
+  padding-top: 20px;
+  color: #CCCCCC;
+}
+
+blockquote {
+  color: #AE9562;
+  padding-left: 30px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 18px;
+}
+.planeParagraph {
+  padding-top: 50px;
+
+}
+.planeParagraph p {
+  padding-right: 50px;
+  color: #CCCCCC;
+}
+
+
+
+.callToActionContent {
+  padding-top: 90px;
+}
+.callToActionContent h3 {
+  font-style: italic;
+  font-size: 1.1em;
+}
+.callToActionButtonContent a {
+  background-color: #AE9562;
+  height: 30px;
+  width: 100px;
+  display: block;
+  padding-top: 10px;
+  text-decoration: none;
+  margin-bottom: 90px;
+  margin-top: 10px;
+}
+.copyRights p {
+  margin: 10px;
+}
+.copyRights {
+  padding-bottom: 90px;
+}
